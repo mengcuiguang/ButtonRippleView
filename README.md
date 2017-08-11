@@ -3,6 +3,9 @@
 
 ![image](https://github.com/mengcuiguang/ButtonRippleView/blob/master/test.gif )  
 
+为什么写？
+    最近项目上有需求，需要在按钮上添加波纹效果，到网上找了好多，几本都是用的系统5.0效果，而且还不能指定在 按钮范围内动画，所有写了下面这个Demo。
+
 使用方法：
 
     <com.meng.buttonrippleview.AnimationButton
